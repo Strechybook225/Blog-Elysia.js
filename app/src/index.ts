@@ -10,7 +10,6 @@ const app = new Elysia()
   .use(errorMiddleware)
   .use(authMiddleware)
 
-  // Swagger documentation
   .use(
     swagger({
       path: "/swagger",
