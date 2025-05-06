@@ -1,4 +1,5 @@
 import { up as blogsUp } from "./migrations/blogs";
+import { up as refreshTokensUp } from "./migrations/refresh_tokens";
 import { up as usersUp } from "./migrations/users";
 
 async function migrate() {
@@ -8,6 +9,9 @@ async function migrate() {
 
     await blogsUp();
     console.log("Blogs table created successfully");
+
+    await refreshTokensUp();
+    console.log("Refresh tokens table created successfully");
 
     process.exit(0);
   } catch (error) {
