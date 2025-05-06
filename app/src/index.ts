@@ -6,9 +6,6 @@ import { authRouter } from "./modules/auth/router";
 import { blogRouter } from "./modules/blogs/router";
 import { userRouter } from "./modules/users/router";
 
-// Veritabanı migration için
-import "./config/migrate";
-
 const app = new Elysia()
   .use(errorMiddleware)
   .use(authMiddleware)
