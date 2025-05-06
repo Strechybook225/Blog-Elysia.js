@@ -1,13 +1,5 @@
 import db from "../../config/database";
-
-export interface Blog {
-  id?: number;
-  title: string;
-  content: string;
-  user_id: number;
-  created_at?: Date;
-  updated_at?: Date;
-}
+import { Blog } from "./types";
 
 export class BlogService {
   async create(blog: Blog): Promise<Blog> {

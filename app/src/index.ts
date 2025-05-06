@@ -1,7 +1,7 @@
 import swagger from "@elysiajs/swagger";
 import { Elysia } from "elysia";
-import { BlogController } from "./modules/blogs/blog.controller";
-import { UserController } from "./modules/users/user.controller";
+import { blogRouter } from "./modules/blogs/router";
+import { userRouter } from "./modules/users/router";
 
 const app = new Elysia()
   .use(
@@ -20,8 +20,8 @@ const app = new Elysia()
       },
     })
   )
-  .use(new UserController().routes())
-  .use(new BlogController().routes())
+  .use(userRouter)
+  .use(blogRouter)
   .listen(3000);
 
 console.log(
